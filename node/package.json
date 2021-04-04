@@ -1,0 +1,22 @@
+{
+  "name": "socket_iot",
+  "version": "1.0.0",
+  "description": "Socket Server to handle gpio ports",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Socket",
+    "IoT",
+    "Node",
+    "GPIO"
+  ],
+  "author": "Francisco Gutierrez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "onoff": "^6.0.1",
+    "socket.io": "^4.0.1"
+  }
+}
